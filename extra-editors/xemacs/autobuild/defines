@@ -1,6 +1,6 @@
 PKGNAME=xemacs
 PKGSEC=editors
-PKGDES="An highly customizable open source text editor and application development system forked from GNU Emacs"
+PKGDES="A highly customizable open source text editor and application development system forked from GNU Emacs"
 PKGDEP="libpng libtiff gpm giflib desktop-file-utils ncurses x11-lib x11-font openldap gdbm"
 
 AUTOTOOLS_AFTER="--without-postgresql --with-athena=xaw \

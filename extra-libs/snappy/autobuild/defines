@@ -1,5 +1,5 @@
 PKGNAME=snappy
-PKGDES="a fast compressor/decompressor library"
+PKGDES="A fast compressor/decompressor library"
 PKGDEP="glibc"
 PKGSEC=libs
 

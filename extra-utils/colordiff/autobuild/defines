@@ -1,5 +1,5 @@
 PKGNAME=colordiff
 PKGSEC=utils
 PKGDEP="perl diffutils"
-PKGDES="a Perl script wrapper for diff that produces the smae output but with syntax highlighting"
+PKGDES="A Perl script wrapper for diff that produces the same output but with syntax highlighting"
 

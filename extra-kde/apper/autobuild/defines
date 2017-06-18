@@ -1,6 +1,6 @@
 PKGNAME=apper
 PKGSEC=kde
-PKGDES="a PackageKit frontend for KDE"
+PKGDES="A PackageKit frontend for KDE"
 PKGDEP="kcmutils kdelibs4support packagekit-qt"
 BUILDDEP="extra-cmake-modules kde-workspace"
 

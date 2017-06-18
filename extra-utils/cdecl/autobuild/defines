@@ -1,6 +1,6 @@
 PKGNAME=cdecl
 PKGSEC=devel
-PKGDES="turn English phrases to C or C++ declarations"
+PKGDES="Turn English phrases to C or C++ declarations"
 PKGDEP="glibc readline"
 BUILDDEP="flex bison"
 

@@ -1,4 +1,4 @@
 PKGNAME=printproto
 PKGSEC=x11
-PKGDES="printing protocol for X11"
+PKGDES="Printing protocol for X11"
 

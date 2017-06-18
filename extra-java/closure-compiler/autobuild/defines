@@ -1,4 +1,4 @@
 PKGNAME=closure-compiler
 PKGSEC=devel
 PKGDEP="openjdk"
-PKGDES="performs checking, instrumentation and optimizations on Javascript code"
+PKGDES="Performs checking, instrumentation and optimizations on JavaScript code"

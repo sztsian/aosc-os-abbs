@@ -1,6 +1,6 @@
 PKGNAME=libical
 PKGSEC=libs
-PKGDES="an implementation of the iCalendar protocols and data formats"
+PKGDES="An implementation of the iCalendar protocols and data formats"
 PKGDEP="glibc"
 CMAKE_AFTER="-DCMAKE_BUILD_TYPE=Release"
 

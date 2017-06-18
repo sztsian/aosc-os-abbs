@@ -1,4 +1,4 @@
 PKGNAME=pingus
-PKGDES="A action game"
+PKGDES="An action game"
 PKGSEC=game
 PKGDEP="sdl2 sdl2-mixer sdl2-image boost jsoncpp"

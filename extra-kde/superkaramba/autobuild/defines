@@ -2,7 +2,7 @@ PKGNAME=superkaramba
 PKGSEC=kde
 PKGDEP="kde-runtime qimageblitz"
 BUILDDEP="automoc4 cmake"
-PKGDES="an engine for cool desktop eyecandy"
+PKGDES="An engine for cool desktop eye candy"
 
 QTCHOOSER=qt4
 CMAKE_AFTER="-DLIB_INSTALL_DIR=/usr/lib"
