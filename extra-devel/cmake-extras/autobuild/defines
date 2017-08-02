@@ -1,4 +1,0 @@
-PKGNAME=cmake-extras
-PKGSEC=devel
-PKGDEP=""
-PKGDES="Extra CMake utility modules"

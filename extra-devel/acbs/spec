@@ -1,0 +1,5 @@
+VER=20170725
+GITSRC="https://github.com/AOSC-Dev/acbs"
+GITBRCH="staging"
+GITCO="f27a0c85ed3e000eb4a6ce2f6294081817399e47"
+SUBDIR=.
